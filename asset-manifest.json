@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mp3/static/css/main.0acafb6e.css",
-    "main.js": "/mp3/static/js/main.ff9067f8.js",
-    "static/media/me.jpg": "/mp3/static/media/me.b0071239fdd67cd23a9f.jpg",
-    "static/media/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2": "/mp3/static/media/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.b2ee717fe8acb65ab08e.woff2",
-    "static/media/logo-mini.svg": "/mp3/static/media/logo-mini.54a8be8a072059018db7.svg",
-    "static/media/slick.svg": "/mp3/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/mp3/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/mp3/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/mp3/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/mp3/index.html",
-    "main.0acafb6e.css.map": "/mp3/static/css/main.0acafb6e.css.map",
-    "main.ff9067f8.js.map": "/mp3/static/js/main.ff9067f8.js.map"
+    "main.css": "/zingmp3/static/css/main.ffbd5c57.css",
+    "main.js": "/zingmp3/static/js/main.ff9067f8.js",
+    "static/media/me.jpg": "/zingmp3/static/media/me.b0071239fdd67cd23a9f.jpg",
+    "static/media/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2": "/zingmp3/static/media/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.b2ee717fe8acb65ab08e.woff2",
+    "static/media/logo-mini.svg": "/zingmp3/static/media/logo-mini.54a8be8a072059018db7.svg",
+    "static/media/slick.svg": "/zingmp3/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/zingmp3/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/zingmp3/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/zingmp3/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/zingmp3/index.html",
+    "main.ffbd5c57.css.map": "/zingmp3/static/css/main.ffbd5c57.css.map",
+    "main.ff9067f8.js.map": "/zingmp3/static/js/main.ff9067f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.0acafb6e.css",
+    "static/css/main.ffbd5c57.css",
     "static/js/main.ff9067f8.js"
   ]
 }
